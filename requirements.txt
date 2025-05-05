@@ -1,0 +1,15 @@
+scikit-learn
+pandas
+spacy
+torch
+transformers
+datasets
+mlflow
+fastapi
+uvicorn
+prometheus-client
+pyjwt
+python-dotenv
+dvc
+cryptography
+pycryptodome

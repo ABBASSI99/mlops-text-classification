@@ -1,0 +1,17 @@
+stages:
+  preprocess:
+    cmd: python src/data/preprocess.py
+    deps:
+      - src/data/preprocess.py
+      - data/raw/
+    outs:
+      - data/processed/
+  train:
+    cmd: python src/train.py
+    deps:
+      - src/train.py
+      - data/processed/
+    outs:
+      - models/
+    metrics:
+      - mlflow_metrics.json
