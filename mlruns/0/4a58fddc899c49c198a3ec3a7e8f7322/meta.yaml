@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4a58fddc899c49c198a3ec3a7e8f7322/artifacts
+end_time: 1746917724114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a58fddc899c49c198a3ec3a7e8f7322
+run_name: traveling-ape-233
+run_uuid: 4a58fddc899c49c198a3ec3a7e8f7322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746917723921
+status: 3
+tags: []
+user_id: abbas

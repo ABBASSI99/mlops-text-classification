@@ -1,0 +1,3 @@
+data/processed/
+*.csv
+__pycache__/
